@@ -1,0 +1,26 @@
+{
+  "name": "glasss",
+  "version": "0.0.1",
+  "description": "An Npm Package for Glassmorphism Style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Glasss package\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lf32/glasss.git"
+  },
+  "keywords": [
+    "css",
+    "glasss",
+    "glasss-cli",
+    "front-end",
+    "glassmorphism"
+  ],
+  "author": "lf32",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lf32/glasss/issues"
+  },
+  "homepage": "https://github.com/lf32/glasss#readme"
+}
